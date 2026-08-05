@@ -41,3 +41,6 @@
 - Outros benefícios oferecidos pela empresa.
 
 ---
+vaga = https://www.glassdoor.com.br/job-listing/job-30548-senior-developer-go-brazil-cit-JV_KO0,36_KE37,40.htm?jl=1010205925299&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+salario de 150 mil reais por ano como desenvolvedor senior
