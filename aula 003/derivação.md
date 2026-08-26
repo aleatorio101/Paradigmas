@@ -95,7 +95,7 @@
    { x = i ; }
 
 
-##Codigo concreto
+## Codigo concreto
 
 ```C
  if ( i > 0 )
