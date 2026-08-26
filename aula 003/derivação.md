@@ -32,6 +32,8 @@
 
 ## Derivacao 
 
+```C
+
 <if_statement>
 
 ⇒ if ( <condition> ) <statement> else <statement>
@@ -95,6 +97,7 @@
    y = x / i ;
    else
    { x = i ; }
+```
 
 
 ## Codigo concreto
