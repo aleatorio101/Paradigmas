@@ -8,6 +8,7 @@
 
 - Os simbolos entre < > sao nao terminais; os demais representam terminais da linguagem.
 
+```C
 <if_statement> ::= if ( <condition> ) <statement> else <statement>
 
 <condition> ::= <expression> > <expression>
@@ -27,6 +28,7 @@
 <identifier> ::= i | x | y
 
 <integer_literal> ::= 0
+```
 
 ## Derivacao 
 
